@@ -7,7 +7,6 @@ from cache instead of hitting the origin again.
 Built with FastAPI + httpx, with a pluggable cache backend (disk via
 `diskcache`, or Redis for shared/multi-instance caching).
 
-Project brief: https://roadmap.sh/projects/caching-server
 
 ## Requirements
 
